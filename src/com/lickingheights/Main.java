@@ -3,6 +3,19 @@ package com.lickingheights;
 public class Main {
 
     public static void main(String[] args) {
-	// write your code here
+	// TODO DECLARE VARIABLES
+
+        //TODO  initialize variables
+
+        //todo prompt the user
+
+        //todo build variables for equation
+
+        //todo calculate
+
+        // todo print results
+        
+
+
     }
 }
